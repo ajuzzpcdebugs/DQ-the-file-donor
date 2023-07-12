@@ -197,6 +197,7 @@ Nᴀᴍᴇ - {}"""
 ╭─────── • ◆ • ───────╮
 🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/ajuzzpc_movie">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[𝐀𝐉𝐔𝐙𝐙 𝐏𝐂]](https://t.me/ajuzzpc_movie)"""
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @ajuzzpc_movie
@@ -211,7 +212,8 @@ IMDb Data:
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
-    
+  🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[𝐀𝐉𝐔𝐙𝐙 𝐏𝐂]](https://t.me/ajuzzpc_movie)""" 
+
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
     
