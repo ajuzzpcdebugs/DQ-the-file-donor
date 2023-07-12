@@ -200,7 +200,7 @@ Nᴀᴍᴇ - {}"""
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @ajuzz_pc_1
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
