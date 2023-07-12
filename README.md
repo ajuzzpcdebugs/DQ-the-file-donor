@@ -1,3 +1,14 @@
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajuzzpcdebugs/DQ-the-file-donor)
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
 </p>
